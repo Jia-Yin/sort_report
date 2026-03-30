@@ -1,7 +1,7 @@
 # 排序報告
 
-學號: XXXXXXX
-姓名: Jia-Yin 
+學號: XXXXXXX  
+姓名: Jia-Yin  
 模擬頁面: [https://jia-yin.github.io/sort_report/](https://jia-yin.github.io/sort_report/)
 
 報告內容應該包括以下各節，簡述原理、複雜度分析與模擬實作內容。
@@ -13,6 +13,8 @@
 ## 插入排序法
 
 ## 合併排序法
+
+## XXX 排序法
 
 ## 綜合比較
 
